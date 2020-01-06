@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>主流web开发平台对比</title>
+    <url>/2019/12/16/%E4%B8%BB%E6%B5%81web%E5%BC%80%E5%8F%91%E5%B9%B3%E5%8F%B0/</url>
+    <content><![CDATA[<blockquote>
+<ol>
+<li>ASP.NET(Windows Sever+IIS+SQL Sever+ASP)</li>
+</ol>
+</blockquote>
+<blockquote>
+<ol start="2">
+<li>JavaEE开发平台</li>
+</ol>
+</blockquote>
+<blockquote>
+<ol start="3">
+<li>LAMP and LNMP开发平台(Linux+Apache(Nginx)+Mysql+PHP)</li>
+</ol>
+</blockquote>
+]]></content>
+      <categories>
+        <category>编程</category>
+      </categories>
+  </entry>
+  <entry>
     <title>我的第一篇文章</title>
     <url>/2019/12/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
     <content><![CDATA[<p>##第一章</p>
